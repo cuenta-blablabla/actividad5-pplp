@@ -1,0 +1,2 @@
+La ruta POST sirve para enviar información a la página web. Puede ser utilizada para enviar 
+comentarios en una comunidad por internet.

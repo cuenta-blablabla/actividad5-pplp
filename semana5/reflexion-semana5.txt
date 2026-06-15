@@ -1,0 +1,10 @@
+Las APIs permiten que las comunidades compartan información, reportes y alertas de manera
+organizada, rápida y segura entre diferentes aplicaciones y plataformas. Esto facilita 
+que los datos lleguen oportunamente a los ciudadanos.
+Su uso contribuye a la paz y el respeto porque promueve una comunicación transparente, 
+reduce la desinformación y fomenta la colaboración para resolver problemas de manera 
+pacífica. Además, facilita la participación de más personas en iniciativas comunitarias
+y el acceso a información confiable. Herramientas de software libre como Express 
+hacen posible desarrollar estas APIs de forma sencilla, flexible y de bajo costo, 
+impulsando soluciones tecnológicas abiertas que fortalecen la cooperación y el 
+bienestar colectivo.
